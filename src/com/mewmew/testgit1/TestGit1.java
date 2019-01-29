@@ -20,4 +20,6 @@ package com.mewmew.testgit1;
 public class TestGit1
 {
     int i = 1;
+    
+    int j = 2;
 }
